@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "tic tac opening.png;." --add-data "x.png;." --add-data "o.png;." TicTacToe.py
